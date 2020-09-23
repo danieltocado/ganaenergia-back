@@ -9,3 +9,4 @@ const db = mongoose.connect('mongodb+srv://admin:1234@cluster0-blmkj.mongodb.net
     .catch(console.error)
 
 module.exports = db;
+
